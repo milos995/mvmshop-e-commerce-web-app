@@ -1,0 +1,81 @@
+body{
+	padding-top: 50px;
+}
+
+#headerWrapper img {
+	width: 100%;
+	height: 281px;
+}
+
+.img-thumb {
+	width: auto;
+	height: 200px;
+}
+
+#footer {
+	margin-top: 50px;
+}
+
+img.details {
+	width: 70%;
+	margin: 15% auto;
+}
+
+.table-auto {
+	width: auto;
+	margin: 0px auto;
+}
+
+#add-product-btn {
+	margin-top: -35px;
+}
+
+.saved-image img {
+	width: 200px;
+	height: auto;
+}
+
+#login-form {
+	width: 50%;
+	height: 60%;
+	border: 2px solid #000;
+	border-radius: 15px;
+	box-shadow: 7px 7px 15px rgba(0,0,0,0.6);
+	margin: 7% auto;
+	padding: 15px;
+	background-color: #fff;
+}
+
+.mar-right {
+	margin-right: 1%;
+}
+
+.user {
+	padding: 13px;
+}
+
+.logout {
+	margin-left: 5px;
+}
+
+.mar-top {
+	margin-top: 25px;
+}
+
+#cart_widget td, #recent-widget, #kursna-lista td{
+	font-size: 12px;
+}
+
+input.price-range {
+	width: 65px;
+}
+
+.products {
+	height: 350px;
+}
+
+@media only screen and (max-width: 768px) {
+	#headerWrapper img {
+	width: 100%;
+	height: 200px;
+}
